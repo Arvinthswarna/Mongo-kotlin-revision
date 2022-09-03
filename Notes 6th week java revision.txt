@@ -1,0 +1,166 @@
+===========================================================
+
+JAVA REVISION:
+
+JAVA :
+
+Programming Language
+
+object oriented
+
+JAVA SE(Java standard edition)
+
+JAVA EE(Java Enterprise edition)
+
+JAVA ME(Java Micro Edition)->mobile apps
+
+Web Applications:
+--------------------
+
+1.Online Shopping
+
+2.Online Banking
+
+3.Online Ticketing
+
+=====================
+apps works over the browser through internet
+
+Installation:
+==============
+
+Install JDK(Java development kit)
+        JVM(Java Virtual Machine)
+        
+
+
+
+After installation,
+
+In command prompt type java -version
+                       javac -version
+
+
+Revision Schedule:
+
+1.Helloworld execution
+
+2.Variables
+
+3.Opearators
+
+4.Conditions
+
+5.loops
+
+6.Functions
+
+7.Functions with parameters
+
+8.Oops:
+
+  1.class
+   
+  2.objects
+
+  3.Inheritance
+
+  4.Polymorphism
+
+  5.Encapsulation
+
+  6.Abstraction
+
+  7.Interface
+
+9.Exceptions
+
+10.File handling
+
+11.Threads
+
+12.Collections
+  
+
+
+
+
+**************************To execute in cmd,
+
+//javac HelloWorld.java
+
+//.class file will be created
+
+//java HelloWorld
+
+//o/p will be displayed welcome to java.
+===================================================
+
+
+Eclipse IDE(Integrated development Environment):
+
+Polymorphism:
+--------------
+
+poly : many
+morphic: behaviour
+
+Function Overloading:
+----------------------
+add(int a,int b){
+}
+
+add(int a,int b,int c){
+}
+
+obj.add(20,30,40);
+obj.add(40,40)
+====================================================
+
+Rule 1:same function name,same return type but different number of parameters
+
+Rule 2:same function name,same return type ,same  number of parameters but of different type
+
+=====================================
+Function Overriding:
+===================
+void display(){
+}
+void display(){
+}
+
+Rule 1:same function name,same return type,same number of parameters
+
+Rule 2:Inheritance has to happen.
+
+=====================================
+
+Exceptions:
+==================
+
+try catch 
+finally
+throw throws
+custom exception
+
+
+File Handling
+===============
+
+Threads:
+==========
+
+Thread is a light weight sub process
+
+THread can be created in java by two ways:
+
+1.By inheriting Thread class
+
+2.By implementing Runnable interface
+
+
+
+
+
+
+
